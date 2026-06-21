@@ -1,5 +1,9 @@
 # House Price Prediction
 
+This project was completed as part of the AI/ML Engineering Internship at DevelopersHub Corporation.
+
+---
+
 ## Project Overview
 This project focuses on predicting house prices using machine learning techniques based on various property features such as area, number of bedrooms, bathrooms, stories, parking, and location-related attributes. The goal is to build a regression model that can estimate house prices with reasonable accuracy.
 
